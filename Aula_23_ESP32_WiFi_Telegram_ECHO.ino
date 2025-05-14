@@ -9,7 +9,7 @@ char ssid[] = "nnnx2";     // your network SSID (name)
 char password[] = "casa136asac"; // your network key
 
 // Initialize Telegram BOT
-#define BOTtoken "5276611152:AAG655b5wRynyBrrMwTJe8HFvp9ytD1UAr8"  // your Bot Token (Get from Botfather)
+#define BOTtoken "3737333777BACG655b5wRynyBrrMwTJe8HFvp9ytD1UAr8"  // your Bot Token (Get from Botfather)
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
